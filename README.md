@@ -20,4 +20,5 @@ document.querySelector(".getStartedButton").addEventListener("click", () => {
 });
 
 ```
-
+## Task 2: Data Cleanup
+The provided dataset `sampledata.csv` is cleaned up using Python. The code is written [here](task2_DataCleanup.ipynb) on Google Colab.
